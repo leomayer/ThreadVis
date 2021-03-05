@@ -28,7 +28,7 @@
 
 {
     "extensionName": {
-        "message": "ThreadVis",
+        "message": "private@threadvis",
         "description": "Name of the extension."
     },
     "extensionDescription": {

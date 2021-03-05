@@ -30,7 +30,7 @@
     "manifest_version": 2,
     "applications": {
         "gecko": {
-            "id": "{A23E4120-431F-4753-AE53-5D028C42CFDC}",
+            "id": "private@threadvis",
             "strict_min_version": "78.0"
         }
     },
@@ -77,5 +77,5 @@
         }
       }
     },
-    "default_locale": "en"
+    "default_locale": "de"
 }
